@@ -1,7 +1,7 @@
 name: frankjaeger
 favicon: null
-layout_spectrum: 0.6130559898447245
-typography_spectrum: 0.8011806695722044
+layout_spectrum: 1
+typography_spectrum: 0.73977
 title: Frank Jaeger RTD
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8582183818798512
-  lightness: 0.7359949473757297
-  saturation: 0.8319552424363792
-  rhythmicContrast: 0.001359737478196621
+    - '#000000'
+    - '#0076ec'
+    - '#760000'
+    - '#ffffff'
+    - '#2f2f2f'
+  brandStrength: 0.8125
+  lightness: 0.75
+  saturation: 0.5625
+  rhythmicContrast: 0
 purpose: []
